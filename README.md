@@ -1,10 +1,9 @@
-# Rails Friend by 
+# Rails Friend by John Elder (codemy.com)
 
-This project in progress as I learn Ruby on Rails based on the following course video from Free Code Camp:
+This project is in progress as I learn Ruby on Rails based on [this course video](https://www.youtube.com/watch?v=fmyvWz5TUWg) from Free Code Camp.
 
 
-
-# GIT Cheat Sheet
+## GIT Cheat Sheet
 
 * git add .
 
@@ -21,30 +20,3 @@ Verifies the new remote URL
 * git push -u origin master
 
 Pushes the changes in your local repository up to the remote repository you specified as the origin
-
-
-
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
