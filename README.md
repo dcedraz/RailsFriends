@@ -20,3 +20,20 @@ Verifies the new remote URL
 * git push -u origin master
 
 Pushes the changes in your local repository up to the remote repository you specified as the origin
+
+## Notes
+Path to master branch:
+cd Desktop/Salsify/Ruby\ Learning/RailsFriends/Friends
+
+<%= %> - This means we can type Ruby code inside the HTML and print the result in the page (with the = sign)
+
+* Example to create a new DB table:
+
+Command to create the migrate
+
+#rails g scaffold friends first_name:string last_name:string email:string phone:string twitter:string 
+Command to create the schema:
+
+#db:migrate
+
+Rembember this will create a new css file that might conflict with an existing one (like bootstrap), just check it under the folder app/assets/stylesheets
