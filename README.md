@@ -1,6 +1,6 @@
 # Rails Friend by John Elder (codemy.com)
 
-This project is in progress as I learn Ruby on Rails based on [this course video](https://www.youtube.com/watch?v=fmyvWz5TUWg) from Free Code Camp.
+This project is in progress as I learn Ruby on Rails based on [this course video](https://www.youtube.com/watch?v=fmyvWz5TUWg) from Free Code Camp. 1.42
 
 
 ## GIT Cheat Sheet
@@ -37,3 +37,4 @@ Command to create the schema:
 #db:migrate
 
 Rembember this will create a new css file that might conflict with an existing one (like bootstrap), just check it under the folder app/assets/stylesheets
+
