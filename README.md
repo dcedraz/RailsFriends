@@ -2,7 +2,7 @@
 
 This project is in progress as I learn Ruby on Rails based on [this course video](https://www.youtube.com/watch?v=fmyvWz5TUWg) from Free Code Camp. 3.06 (Next chapter: Style Modifications)
 
-
+Test
 ## GIT Cheat Sheet
 
 * git add .
